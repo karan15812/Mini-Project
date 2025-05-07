@@ -1,7 +1,8 @@
 # Mini-Project
 Mini project on Sentiment Classification of social media
 
-#Team members
-Karan Solanki
-Sakshi Yadav
-Tanishq
+## 👥 Team Members
+
+- **Karan Solanki** (Roll: 2401560063)  
+- **Tanishq** (Roll: 2401560020)  
+- **Sakshi Yadav** (Roll: 2401560072)  
